@@ -1,0 +1,72 @@
+ii  libapache2-mod-php                              1:7.0+49                                      all          server-side, HTML-embedded scripting language (Apache 2 module) (default)
+ii  libapache2-mod-php5.6                           5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        server-side, HTML-embedded scripting language (Apache 2 module)
+ii  libapache2-mod-php7.0                           7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        server-side, HTML-embedded scripting language (Apache 2 module)
+ii  php                                             1:7.0+49                                      all          server-side, HTML-embedded scripting language (default)
+ii  php-bz2                                         1:7.0+49                                      all          bzip2 module for PHP [default]
+ii  php-codecoverage                                4.0.0+dfsg-1                                  all          collection, processing, and rendering for code coverage
+ii  php-common                                      1:49                                          all          Common files for PHP packages
+ii  php-curl                                        1:7.0+49                                      all          CURL module for PHP [default]
+ii  php-deepcopy                                    1.5.5-1                                       all          create deep copies (clones) of objects
+ii  php-doctrine-instantiator                       1.0.5-1ubuntu1                                all          lightweight utility to instantiate objects in PHP
+ii  php-file-iterator                               1.4.1-2                                       all          FilterIterator implementation for PHP
+ii  php-gd                                          1:7.0+49                                      all          GD module for PHP [default]
+ii  php-gettext                                     1.0.12-0.1                                    all          transitional dummy package for php-php-gettext
+ii  php-igbinary                                    2.0.1-1                                       amd64        igbinary PHP serializer
+ii  php-mbstring                                    1:7.0+49                                      all          MBSTRING module for PHP [default]
+ii  php-mcrypt                                      1:7.0+49                                      all          libmcrypt module for PHP [default]
+ii  php-mysql                                       1:7.0+49                                      all          MySQL module for PHP [default]
+ii  php-pear                                        1:1.10.1+submodules+notgz-9                   all          PEAR Base System
+ii  php-php-gettext                                 1.0.12-0.1                                    all          read gettext MO files directly, without requiring anything other than PHP
+ii  php-phpdocumentor-reflection-docblock           2.0.4-2                                       all          DocBlock parser - phpDocumentor component
+ii  php-phpseclib                                   2.0.4-1                                       all          implementations of an arbitrary-precision integer arithmetic library
+ii  php-phpspec-prophecy                            1.6.2-1                                       all          object mocking framework - phpspec component
+ii  php-redis                                       3.1.1-1                                       amd64        PHP extension for interfacing with Redis
+ii  php-symfony-yaml                                2.8.7+dfsg-1ubuntu1                           all          convert YAML to PHP arrays and the other way around
+ii  php-tcpdf                                       6.2.12+dfsg2-1ubuntu1                         all          PHP class for generating PDF files on-the-fly
+ii  php-text-template                               1.2.1-2                                       all          Simple template engine
+ii  php-timer                                       1.0.7-1ubuntu1                                all          Utility class for timing
+ii  php-token-stream                                1.4.8-1ubuntu1                                all          Wrapper around PHP's tokenizer extension
+ii  php-xdebug                                      2.5.5-3+ubuntu17.04.1+deb.sury.org+1          amd64        Xdebug Module for PHP
+ii  php-xml                                         1:7.0+49                                      all          DOM, SimpleXML, WDDX, XML, and XSL module for PHP [default]
+ii  php-zip                                         1:7.0+49                                      all          Zip module for PHP [default]
+ii  php5.6                                          5.6.32-1+ubuntu17.04.1+deb.sury.org+2         all          server-side, HTML-embedded scripting language (metapackage)
+ii  php5.6-cli                                      5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        command-line interpreter for the PHP scripting language
+ii  php5.6-common                                   5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        documentation, examples and common module for PHP
+ii  php5.6-curl                                     5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        CURL module for PHP
+ii  php5.6-gd                                       5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        GD module for PHP
+ii  php5.6-json                                     5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        JSON module for PHP
+ii  php5.6-mbstring                                 5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        MBSTRING module for PHP
+ii  php5.6-mcrypt                                   5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        libmcrypt module for PHP
+ii  php5.6-mysql                                    5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        MySQL module for PHP
+ii  php5.6-opcache                                  5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        Zend OpCache module for PHP
+ii  php5.6-readline                                 5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        readline module for PHP
+ii  php5.6-xml                                      5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        DOM, SimpleXML, WDDX, XML, and XSL module for PHP
+ii  php5.6-xmlrpc                                   5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        XMLRPC-EPI module for PHP
+ii  php5.6-zip                                      5.6.32-1+ubuntu17.04.1+deb.sury.org+2         amd64        Zip module for PHP
+ii  php7.0                                          7.0.26-2+ubuntu17.04.1+deb.sury.org+2         all          server-side, HTML-embedded scripting language (metapackage)
+ii  php7.0-bz2                                      7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        bzip2 module for PHP
+ii  php7.0-cli                                      7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        command-line interpreter for the PHP scripting language
+ii  php7.0-common                                   7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        documentation, examples and common module for PHP
+ii  php7.0-curl                                     7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        CURL module for PHP
+ii  php7.0-gd                                       7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        GD module for PHP
+ii  php7.0-json                                     7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        JSON module for PHP
+ii  php7.0-mbstring                                 7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        MBSTRING module for PHP
+ii  php7.0-mcrypt                                   7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        libmcrypt module for PHP
+ii  php7.0-mysql                                    7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        MySQL module for PHP
+ii  php7.0-opcache                                  7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        Zend OpCache module for PHP
+ii  php7.0-readline                                 7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        readline module for PHP
+ii  php7.0-xml                                      7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        DOM, SimpleXML, WDDX, XML, and XSL module for PHP
+ii  php7.0-zip                                      7.0.26-2+ubuntu17.04.1+deb.sury.org+2         amd64        Zip module for PHP
+ii  phpmyadmin                                      4:4.6.6-4                                     all          MySQL web administration tool
+ii  phpunit                                         5.4.6-1                                       all          Unit testing suite for PHP
+ii  phpunit-code-unit-reverse-lookup                1.0.0-2                                       all          look up what a line of code belongs to - PHPUnit component
+ii  phpunit-comparator                              1.2.0-1ubuntu1                                all          functionality to compare PHP values for equality - PHPUnit component
+ii  phpunit-diff                                    1.4.1-1ubuntu1                                all          diff implementation - stand-alone component from PHPUnit
+ii  phpunit-environment                             1.3.3-1ubuntu1                                all          functionality to handle HHVM/PHP environments - PHPUnit component
+ii  phpunit-exporter                                1.2.1-1ubuntu1                                all          export variables for visualization - PHPUnit component
+ii  phpunit-global-state                            1.1.1-1ubuntu1                                all          snapshotting of global state - PHPUnit component
+ii  phpunit-mock-object                             3.2.3-1                                       all          Mock Object library for PHPUnit
+ii  phpunit-object-enumerator                       1.0.0-2                                       all          enumerate all referenced objects - PHPUnit component
+ii  phpunit-recursion-context                       1.0.2-1ubuntu1                                all          recursively process PHP variables - PHPUnit component
+ii  phpunit-resource-operations                     1.0.0-2                                       all          provide a list of PHP built-in functions that operate on resources
+ii  phpunit-version                                 2.0.0-2                                       all          Library that helps with managing the version number of Git-hosted PHP projects
